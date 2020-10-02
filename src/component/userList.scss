@@ -1,0 +1,24 @@
+.grid-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    height: 100%;
+    width:100%;
+}
+.option-list{
+    width: 62%;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 2%;
+   
+}
+.user-profile{
+    width:100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
